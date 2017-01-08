@@ -32,3 +32,8 @@ jupyter notebook Traffic_Signs_Recognition.ipynb
 3. Follow the instructions in the `Traffic_Signs_Recognition.ipynb` notebook.
 
 # Traffic-Sign-Classifier
+
+### Reference
+- LeNet architecture
+- Udacity labs, lectures video, course note
+- Udacity self-driving car forum
